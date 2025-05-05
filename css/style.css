@@ -425,7 +425,6 @@ body {
     margin: 0;
 }
 .about__item {
-    cursor: pointer;
     background-color: #141B22;
     position: relative;
     padding: 30px;
