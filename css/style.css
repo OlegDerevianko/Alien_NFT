@@ -101,7 +101,7 @@ body {
 .hero {
     width: 1920px;
     margin: auto;
-    background-image: url(/images/BG.png);
+    background-image: url(../images/BG.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
